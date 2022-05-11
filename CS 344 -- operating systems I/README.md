@@ -1,5 +1,3 @@
-Ariel Meshorer, CS 344, Spring 2022
-
 ## Details:
 
 This is a small shell clone written in C that implements a subset of features of well-known shells, such as bash. This program does the following:
