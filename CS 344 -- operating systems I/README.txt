@@ -1,15 +1,17 @@
 Ariel Meshorer, CS 344, Spring 2022
 
-The resources used for this program are:
--- the canvas modules
--- the replits from the modules
--- ta/professor office hours.
-	-- ta office hours were utilized 
+This is a small shell clone written in C that implements a subset of features of well-known shells, such as bash. This program does the following:
 
-Online resources were used to clarify certain function uses,
-no logic was copied.
+Provide a prompt for running commands
+Handle blank lines and comments, which are lines beginning with the # character
+Provide expansion for the variable $$
+Execute 3 commands exit, cd, and status via code built into the shell
+Execute other commands by creating new processes using a function from the exec family of functions
+Support input and output redirection
+Support running commands in foreground and background processes
+Implement custom handlers for 2 signals, SIGINT and SIGTSTP
 
-To run the program:
+#### To run the program:
 
 make
 run test script
