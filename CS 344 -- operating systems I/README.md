@@ -4,7 +4,7 @@ Introduction to operating systems using UNIX as the case study. System calls and
 
 Completed in Spring 2022. 
 
-## Details:
+## Portfolio Project: Smallsh
 
 This is a small shell clone written in C that implements a subset of features of well-known shells, such as bash. This program does the following:
 <ol>
