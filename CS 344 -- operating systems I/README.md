@@ -1,3 +1,9 @@
+# CS 344: Operating Systems
+
+Introduction to operating systems using UNIX as the case study. System calls and utilities, fundamentals of processes and interprocess communication.
+
+Completed in Spring 2022. 
+
 ## Details:
 
 This is a small shell clone written in C that implements a subset of features of well-known shells, such as bash. This program does the following:
