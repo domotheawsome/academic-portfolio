@@ -1,4 +1,4 @@
-# CS 375: Introduction to Assembly Programming & Computer Organization
+# ECE 375: Computer Organization & Assembly Language Programming
 
 Introduction to computer organization, how major components in a computer system function together in executing a program, and assembly language programming. 
 
